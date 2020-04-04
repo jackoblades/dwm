@@ -49,4 +49,5 @@ and (re)compiling the source code.
 
 Patches
 -------
+* True Fullscreen
 * Alpha
