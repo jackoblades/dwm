@@ -51,4 +51,5 @@ Patches
 -------
 * Alpha
 * Full Gaps
+* Mod = Super/Windows
 * True Fullscreen
